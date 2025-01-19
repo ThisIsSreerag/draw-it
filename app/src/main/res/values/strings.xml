@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Draw It</string>
+    <string name="pick_your_brush">Pick Your Brush</string>
+    <string name="appcompat_image_button">AppCompat Image Button</string>
+    <string name="image">Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok_caps">OK</string>
+    <string name="draw_it_requires_to_read_external_storage_permission_for_its_proper_working_please_provide_the_same">Draw It requires to read external storage permission for its proper working, please provide the same.</string>
+    <string name="draw_it_requires_to_write_external_storage_permission_for_its_proper_working_please_provide_the_same">Draw It requires to write external storage permission for its proper working, please provide the same.</string>
+    <string name="alert">Alert!!!</string>
+    <string name="please_wait">Please wait…!!!</string>
+    <string name="image_saved_successfully">Image saved successfully</string>
+    <string name="something_went_wrong_while_saving_the_image">Something went wrong while saving the image</string>
+</resources>
